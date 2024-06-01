@@ -1,0 +1,29 @@
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab 27.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\MainWindow.g.cs
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\App.g.cs
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab 27_MarkupCompile.cache
+D:\Coding\Visual Studio\VS projects\Lab 27\bin\Debug\Lab 27.exe.config
+D:\Coding\Visual Studio\VS projects\Lab 27\bin\Debug\Lab 27.exe
+D:\Coding\Visual Studio\VS projects\Lab 27\bin\Debug\Lab 27.pdb
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\MainWindow.baml
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab 27.g.resources
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab_27.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab 27.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab 27.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab 27.exe
+D:\Coding\Visual Studio\VS projects\Lab 27\obj\Debug\Lab 27.pdb
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\bin\Debug\Lab 27.exe.config
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\bin\Debug\Lab 27.exe
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\bin\Debug\Lab 27.pdb
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab 27.csproj.AssemblyReference.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\MainWindow.baml
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\MainWindow.g.cs
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\App.g.cs
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab 27_MarkupCompile.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab 27.g.resources
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab_27.Properties.Resources.resources
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab 27.csproj.GenerateResource.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab 27.csproj.CoreCompileInputs.cache
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab 27.exe
+D:\University\2 курс\4 семестр\ООП\Не мої\Шпетний\Lab 27\obj\Debug\Lab 27.pdb
